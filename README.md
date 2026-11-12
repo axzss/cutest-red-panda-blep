@@ -35,7 +35,7 @@ second on one CPU.
 ## Entry
 
 This repository is an entry for the
-[cutest-picture-01](https://make.fun/c/cutest-picture-01) competition
+[cutest-picture-01](https://make.fun/bounty/cutest-picture-01) competition
 on make.fun. License: MIT.
 
 ---
